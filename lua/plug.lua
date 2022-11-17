@@ -2,7 +2,7 @@
 
 local Plug = vim.fn['plug#']
 
-vim.call('plug#begin', '~/.config/nvim/plugin/vim-plug')
+vim.call('plug#begin', vim.call('stdpath', 'config')..'/plugins/vim-plug')
 
 Plug 'hashivim/vim-terraform'
 
