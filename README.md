@@ -1,4 +1,4 @@
-# nvim-config
+# <img src="doc/img/neovim.png" width="64" height="64" style="vertical-align:middle" /> nvim-config
 
 Personal Neovim configuration files
 
